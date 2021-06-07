@@ -1,0 +1,59 @@
+.Container {
+	background-color: darkblue;
+	height: 8rem;
+}
+
+h1.header1 {
+	padding-top: 30px;
+	padding-left: 40px;
+	color: darkmagenta;
+	font-family: 'Stint Ultra Condensed', cursive;
+	font-style: italic;
+	font-size: 50px;
+}
+
+.footercontain {
+	background: #344;
+	height: 6rem;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.note {
+	white-space: normal;
+}
+
+h2.word {
+	width: 95%;
+	height: 390px;
+	padding: 30px;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	border: 3px solid black;
+	border-radius: 25px;
+	background-image: url('./image/img.jpg');
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-size: 150px 150px;
+	background-origin: content-box;
+	float: right;
+}
+
+h2.word p {
+	font-size: 25px;
+	white-space: normal;
+	text-align: center;
+	color: rgb(15, 121, 192);
+	margin-top: 20px;
+	float: left;
+	margin-left: 70px;
+}
